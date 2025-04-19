@@ -1,0 +1,40 @@
+html means hypertext markup language
+head tag contains --> title, meta , style, script 
+it can be used for create web page
+html is  web presentataion language 
+<html> is root tag or element 
+html extensions --->.html,.htm
+
+=====================================================================
+
+tag catagories 
+
+document tags : html , head ,body ,title, meta ,style , link, script
+
+structure tags : div ,header,nav , article ,aside , section ,footer ,
+
+text formating tags:  h1,----h6,p,span,b, strong  <strong> tag is an HTML element used to give strong importance to text
+
+
+image tag:img tag
+
+link tag:  <a></a>
+
+list : ul ,ol ,li
+
+
+table tags : table  , thead , tr, tbody ,td , th 
+
+
+ form tags :label , input , iframe for embedded google map 
+
+ html 5 tags
+
+
+ container tags: it caontains tag opening and closing  
+ <a></a>,<html></head>
+
+ noncontainer tags :  it caontains self closing 
+ <img>, <br>,<link>,<hr>,<meta>
+
+ 
